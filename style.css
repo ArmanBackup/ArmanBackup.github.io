@@ -87,10 +87,11 @@ section .title::after {
     padding: 30px 0;
     font-family: 'sans-serif';
     transition: all 0.3s ease;
+    background: #7A77B9;
 }
 .navbar.sticky {
     padding: 15px 0;
-    background: #7A77B9;
+    background: crimson;
 }
 .navbar .max-width {
     display: flex;
