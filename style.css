@@ -185,10 +185,10 @@ min-height: 500px;
 background-size: cover;
 background-attachment: fixed;
 font-family: 'Ubuntu', sans-serif;
-width: 60vh;
+width: 1900px;
 }
 .home .max-width {
-width: 100%;
+width: 1900px;
 display: flex;
 }
 .home .max-width .row {
